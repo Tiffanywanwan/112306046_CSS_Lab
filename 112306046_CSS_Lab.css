@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: #333;
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', serif;
+}
+
+.navbar {
+    position: relative;
+    top: 1em;
+    left: 2em;
+    width: 10em;
+}
+
+/* Media Queries */
+@media all {
+    /* Styles for all devices */
+}
+
+@media print {
+    /* Styles for print media */
+}
